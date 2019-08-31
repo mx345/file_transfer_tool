@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<students>
+    <student rich="false" sight="4.2">
+        <sno>1001</sno>
+        <name>张三</name>
+        <sex>男</sex>
+        <phone>18532532532</phone>
+        <favorite>
+            <sports>
+                <name>篮球</name>
+                <name>乒乓球</name>
+            </sports>
+            <art>
+                <name>书法</name>
+                <name>画画</name>
+                <name>自走棋</name>
+            </art>
+        </favorite>
+    </student>
+
+    <student>
+        <sno>1002</sno>
+        <name>李四</name>
+        <sex>男</sex>
+        <phone>18532532532</phone>
+        <favorite>
+            <sports>
+                <name>篮球</name>
+                <name>乒乓球</name>
+            </sports>
+            <art>
+                <name>书法</name>
+                <name>画画</name>
+                <name>自走棋</name>
+            </art>
+        </favorite>
+    </student>
+
+    <student>
+        <sno>1003</sno>
+        <name>王五</name>
+        <sex>男</sex>
+        <phone>18532532532</phone>
+        <favorite>
+            <sports>
+                <name>篮球</name>
+                <name>乒乓球</name>
+            </sports>
+            <art>
+                <name>书法</name>
+                <name>画画</name>
+                <name>自走棋</name>
+            </art>
+        </favorite>
+    </student>    
+</students>
